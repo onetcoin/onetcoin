@@ -3,33 +3,40 @@ Onetcoin Coin is a secure and energy efficient PoW/PoS coin. Onetcoin Coin uses 
 
 #Onetcoin Coin Specification
 
-Maximum 28 million BitConnect coin will ever exist to the community.
 
-onetcoin coin adopt a variable PoS rate that will be given periodically payout as per following list,
-- 1st 6 months -> 60% (10% per month)
-- 2nd 6 months -> 50% (8% per month)
-- 3rd 6 months -> 40% (7% per month)
-- 4th 6 months -> 30% (5% per month)
-- 5th 6 months -> 20% (3% per month)
-- 6th 6 months -> 10% (1.4 per month and ongoing.)
+
+  -  Total Supply : 20 Million
+  -  Pre mine : 4 Million
+  -  Technology : Hybrid
+  -  Block time : 2 minutes
+  -  Rewards : 2 coins
+  -  First 6 months : 10% POS per month
+
+  -  Next 6 months : 8% POS per month
+  -  Next 6 months : 7% POS per month
+  -  Next 6 months : 6% POS per month
+  -  Next 6 months : 4% POS per month
+  -  Next 6 months : 2% POS per month
+
+
 
 #How are they used?
-The BitConnect coins are used by onetcoin community members for onetcoin services and to store and invest the wealth in a non-government controlled currency. The BitConnect coins will also be used  as payment system on number of BitConnect partner websites.
+The onet coins are used by onetcoin community members for onetcoin services and to store and invest the wealth in a non-government controlled currency. The onet coins will also be used  as payment system on number of onet partner websites.
 
 #How are they produced?
-BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Onetcoin-QT wallet. In addition to PoS minting, BitConnect coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
+onet coin uses a special algorithm called the POW/POS to secure the onet Coin network. The moment you acquire onet Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Onetcoin-QT wallet. In addition to PoS minting, onet coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
 
 #Download Wallet
-<b>HOW TO SET UP BITCONNECT COIN WALLET ON WINDOWS OPERATING SYSTEM?</b>
+<b>HOW TO SET UP onet COIN WALLET ON WINDOWS OPERATING SYSTEM?</b>
 
-A “BitConnect wallet” is basically the BitConnect Coin Account, which allows you to receive BitConnect Coin, store them, and then send them to others.
+A “onet wallet” is basically the onet Coin Account, which allows you to receive onet Coin, store them, and then send them to others.
 
 <b>Click here : http://www.onetcoincoin.co/wallet/onetcoin-wallet.zip</b>
 - Unzip the wallets files.
 - You will get onetcoin.exe file, Install the wallet software by double click on onetcoin.exe file.
-- You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect Coin.
+- You can now send and receive onet Coin directly from onet Desktop Wallet and also use this wallet to stake onet Coin.
 
-<b> HOW TO SET UP BITCONNECT COIN WALLET ON LINUX OPERATING SYSTEM?</b> 
+<b> HOW TO SET UP onet COIN WALLET ON LINUX OPERATING SYSTEM?</b> 
 
 <b>Click here : http://www.onetcoincoin.co/wallet/onetcoin-linux-qt.zip</b>
 
@@ -37,13 +44,13 @@ A “BitConnect wallet” is basically the BitConnect Coin Account, which allows
 - Unzip the wallets files using command unzip wallet_file.zip -d destination_folder.
 - execute the wallet file using command ./onetcoin-linux-qt.
 
-<b>HOW TO SET UP BITCONNECT COIN WALLET ON MAC OS X OPERATING SYSTEM?</b>
+<b>HOW TO SET UP onet COIN WALLET ON MAC OS X OPERATING SYSTEM?</b>
 
 <b>Click here : https://onetcoincoin.co/wallet/onetcoin-mac.zip?v=154545</b>
 
 - Unzip the wallets files.
 - You will get onetcoin-qt.dmg file, Install the wallet software by double click on onetcoin-qt.dmg file.
-- You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect   Coin.
+- You can now send and receive onet Coin directly from onet Desktop Wallet and also use this wallet to stake onet   Coin.
 
 
 
