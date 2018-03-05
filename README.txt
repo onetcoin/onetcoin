@@ -3,20 +3,17 @@ Onetcoin Coin is a secure and energy efficient PoW/PoS coin. Onetcoin Coin uses 
 
 #Onetcoin Coin Specification
 
-Maximum 28 million BitConnect coin will ever exist to the community.
-
 onetcoin coin adopt a variable PoS rate that will be given periodically payout as per following list,
-- 1st 6 months -> 60% (10% per month)
-- 2nd 6 months -> 50% (8% per month)
-- 3rd 6 months -> 40% (7% per month)
-- 4th 6 months -> 30% (5% per month)
-- 5th 6 months -> 20% (3% per month)
-- 6th 6 months -> 10% (1.4 per month and ongoing.)
+- 1st 6 months -> 8% POS per month
+- 2nd 6 months -> 7% POS per month
+- 3rd 6 months -> 6% POS per month
+- 4th 6 months -> 4% POS per month
+- 5th 6 months -> 2% POS per month
 
 #How are they used?
-The BitConnect coins are used by onetcoin community members for onetcoin services and to store and invest the wealth in a non-government controlled currency. The BitConnect coins will also be used  as payment system on number of BitConnect partner websites.
+The onet coins are used by onetcoin community members for onetcoin services and to store and invest the wealth in a non-government controlled currency. The onet coins will also be used  as payment system on number of onet partner websites.
 
 #How are they produced?
-BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Onetcoin-QT wallet. In addition to PoS minting, BitConnect coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
+onet coin uses a special algorithm called the POW/POS to secure the onet Coin network. The moment you acquire onet Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Onetcoin-QT wallet. In addition to PoS minting, onet coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
 
 
