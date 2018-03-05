@@ -1,0 +1,9 @@
+Building onetcoin
+
+See doc/readme-qt.rst for instructions on building onetcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of onetcoin.
+
+See doc/build-*.txt for instructions on building onetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of onetcoin.
